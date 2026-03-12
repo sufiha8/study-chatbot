@@ -1,0 +1,12 @@
+{
+  "What is Artificial Intelligence?": "Artificial Intelligence is a branch of computer science...",
+  "What is an intelligent agent?": "An intelligent agent is an autonomous entity...",
+  "What is the difference between strong AI and weak AI?": "Strong AI aims to build machines with human-level intelligence, capable of consciousness and emotions... Weak AI is focused on designing systems that simulate human behavior for specific tasks without true",
+  "Define rational agent.": " A rational agent is one that acts to maximize its expected performance measure based on the information it perceives...",
+  "What is an intelligent agent?": "An intelligent agent is an autonomous entity...",
+  "What are the components of an AI system?": "Components of an AI system include learning, reasoning, problem-solving, perception, and language understanding...",
+  "What is the Turing Test?": "The Turing Test evaluates a machine's ability to exhibit intelligent behavior indistinguishable from that of a human. It was proposed by Alan Turing...",
+  "Explain Breadth-First Search (BFS)": "BFS is a search algorithm that explores all nodes at the present depth before moving to the next level. It uses a queue and is complete but memory-intensive...",
+  "What is heuristic search in AI?": "Heuristic search uses domain-specific knowledge (heuristics) to find solutions faster than blind search techniques like BFS or DFS...",
+  "What is A* search algorithm?": "A* is a search algorithm that combines the advantages of uniform-cost search and greedy search. It uses the formula: f(n) = g(n) + h(n), where g is the path cost and h is the heuristic estimate..."
+}
